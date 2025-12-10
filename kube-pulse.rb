@@ -6,7 +6,7 @@ class KubePulse < Formula
   
   sha256 "b006929d775c52b6185d9ed58fcb8eb35d21049f51c0e47f329d0a6774e3a754"
   
-  version "1.0.0"
+  version "1.1.1"
 
   def install
 
