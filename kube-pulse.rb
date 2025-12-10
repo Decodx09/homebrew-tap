@@ -4,7 +4,7 @@ class KubePulse < Formula
   
   url "https://github.com/Decodx09/kube-pulse/releases/download/v1.0.0/kube-pulse-v1.0.0.tar.gz"
   
-  sha256 "506e50d4b161b0bbb5de393f376a1a79c049651f7eee1da70955b5f1f9011d08"
+  sha256 "b006929d775c52b6185d9ed58fcb8eb35d21049f51c0e47f329d0a6774e3a754"
   
   version "1.0.0"
 
